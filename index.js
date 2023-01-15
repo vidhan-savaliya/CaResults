@@ -4,7 +4,7 @@ document.querySelector(".icai_login_right_login_btn").addEventListener("click", 
     var lastName = document.getElementById("password").value;
 
     if (firstName == "WRO0726834@icai.nic" && lastName == "301750") {
-        window.open("res.html");
+        window.open("result.pdf");
     }
 
     else {
